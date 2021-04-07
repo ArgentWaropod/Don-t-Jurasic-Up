@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EventList>
+    <EventData>
+      <eventID>1</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>-50000</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>Hybrid X?</titleString>
+      <descriptorString>A group of scientists offer to work on a new creature, a mysterious beast they only refer to as Hybrid X. They offer wonders, but the cost is steep</descriptorString>
+      <result1String>It seems that they were just a bunch of scammers in labcoats. That sucks.</result1String>
+      <result2String>Good thing you said no, it seems they weren't scientists at all.</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Take the offer ($-50000)</buttonOneString>
+      <buttonTwoString>Refuse</buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>2</eventID>
+      <b1dinoValueDiff>10</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>-50000</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>Hybrid X?</titleString>
+      <descriptorString>A group of scientists offer to work on a new creature, a mysterious beast they only refer to as Hybrid X. They offer wonders, but the cost is steep</descriptorString>
+      <result1String>The project was a massive success, a new and horrible creature has been crafted. Hybrid X. It's beautiful.</result1String>
+      <result2String>The cost is too steep. No reward could be worth it...right?</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Take the offer ($-50000)</buttonOneString>
+      <buttonTwoString>Refuse</buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>3</eventID>
+      <b1dinoValueDiff>2</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>1</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>-200</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>A nest of eggs!</titleString>
+      <descriptorString>A dinosaur has laid a clutch of eggs! You could help out, but it'll cost you.</descriptorString>
+      <result1String>Twins! They are so cute, they're bringing guests from around the world!</result1String>
+      <result2String>You seem to have lost track of the eggs. Let's just hope things were alright.</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Incubate the eggs ($-200)</buttonOneString>
+      <buttonTwoString>Let them incubate on their own</buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>4</eventID>
+      <b1dinoValueDiff>-1</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>-1</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>-1</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>3</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>-1</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>-500</b4moneyDiff>
+      <titleString>DINO BREAK OUT!</titleString>
+      <descriptorString>A pack of Velociraptors break out! What will you do.</descriptorString>
+      <result1String>Surely nobody will notice that Edmontosaurus disappearing (-1 dino)</result1String>
+      <result2String>The security team took out the raptor. Such a crime. (-1 dino, -1 guest)</result2String>
+      <result3String>The security team managed to tranquilize the raptors, and bring them back to their enclosure.</result3String>
+      <result4String>The raptors eventually go back to their enclosure, at the cost of a few guest. Enjoy those lawsuits! (-1 guest, $-500)</result4String>
+      <buttonOneString>Lead them back in with bait</buttonOneString>
+      <buttonTwoString>Kill the dinosaur</buttonTwoString>
+      <buttonThreeString>Tranq the dinosaur (3 sec required)</buttonThreeString>
+      <buttonFourString>Let them go back on their own</buttonFourString>
+    </EventData>
+	
+	<EventData>
+      <eventID>5</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>-1</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>-1</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>3</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>-2</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>-1000</b4moneyDiff>
+      <titleString>DINO BREAK OUT!</titleString>
+      <descriptorString>A Triceratops breaks out! What will you do.</descriptorString>
+      <result1String>Luckily, a herbivore is easily brought back with leaves. Good job!</result1String>
+      <result2String>The security team took out the Triceratops. Such a crime. (-1 dino, -1 guest)</result2String>
+      <result3String>The security team managed to tranquilize the Triceratops, and bring them back to their enclosure.</result3String>
+      <result4String>The Triceratops returns to it's enclosure. It's a shame a few people got trampled along the way (-2 guest, $-1000)</result4String>
+      <buttonOneString>Lead them back in with bait</buttonOneString>
+      <buttonTwoString>Kill the dinosaur</buttonTwoString>
+      <buttonThreeString>Tranq the dinosaur (3 sec required)</buttonThreeString>
+      <buttonFourString>Let them go back on their own</buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>6</eventID>
+      <b1dinoValueDiff>-3</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>-1</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>-3</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>8</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>-8</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>-5000</b4moneyDiff>
+      <titleString>DINO BREAK OUT!</titleString>
+      <descriptorString>A Tyrannosaurus breaks out! What will you do.</descriptorString>
+      <result1String>That's a lot of food you need. Shame that there's a few dinosaurs nobody cares about.</result1String>
+      <result2String>The security team took out the Tyrannosaurus. Shame that that was a popular attraction. (-1 dino, -3 guest)</result2String>
+      <result3String>The security team managed to tranquilize the tyrannosaurus, and bring them back to their enclosure.</result3String>
+      <result4String>Maybe that wasn't such a good idea...(-8 guests, $-5000)</result4String>
+      <buttonOneString>Lead them back in with bait (-3 dino)</buttonOneString>
+      <buttonTwoString>Kill the dinosaur</buttonTwoString>
+      <buttonThreeString>Tranq the dinosaur (8 sec required)</buttonThreeString>
+      <buttonFourString>Let them go back on their own</buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>7</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>5</b1dinoValueRequirement>
+      <b1guestValueDiff>4</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>5000</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>A Dinosaur Show!?</titleString>
+      <descriptorString>A few guests mention wanting to see the dinosaurs on show. Sounds like a swell idea, doesn't it?</descriptorString>
+      <result1String>Hell of a show, kid! The guests absolutely love it! (+4 guests, +$5000)</result1String>
+      <result2String>Pipe dream idea, but it could never happen...right?</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>HELL YEAH! (5 dino required)</buttonOneString>
+      <buttonTwoString>Ehh...maybe not.</buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>8</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>2</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>DINO FIGHT!</titleString>
+      <descriptorString>Two of your dinosaurs have started fighting. Drawing quite a crowd, but they could get hurt!</descriptorString>
+      <result1String>The dinosaurs got a little hurt, but the guest absolutely loved it. Barbaric. (+2 guests)</result1String>
+      <result2String>The security team broke up the fight. Close call.</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Let the fight</buttonOneString>
+      <buttonTwoString>Break it up</buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>9</eventID>
+      <b1dinoValueDiff>-1</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>DINO FIGHT!</titleString>
+      <descriptorString>Two of your dinosaurs have started fighting. Drawing quite a crowd, but they could get hurt!</descriptorString>
+      <result1String>The dinosaur fight went a little too far, now there's blood on your hands (-1 dinosaur)</result1String>
+      <result2String>The security team broke up the fight. Close call.</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Let the fight</buttonOneString>
+      <buttonTwoString>Break it up</buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>10</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>2</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>-500</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>Securty Team Upgrade!</titleString>
+      <descriptorString>The security team have proposed some upgrades to their barracks, how about it?</descriptorString>
+      <result1String>Upgrade get!</result1String>
+      <result2String>Not in the budget today</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Sure thing ($-500)</buttonOneString>
+      <buttonTwoString>Maybe next time...</buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>11</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>-2</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>SABATOGE!</titleString>
+      <descriptorString>A rival company sabatoged your security force!</descriptorString>
+      <result1String>Looking over the damages, it seems a lot of your security team was unharmed, but the equipment needs repairs. (-2 security)</result1String>
+      <result2String>0</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>WHAT!?</buttonOneString>
+      <buttonTwoString></buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>12</eventID>
+      <b1dinoValueDiff>-2</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>SABATOGE!</titleString>
+      <descriptorString>A rival company sabatoged your dinosaur enclosures!</descriptorString>
+      <result1String>Thankfully, the dinosaurs weren't able to get out, but they will need time to heal. (-2 dino)</result1String>
+      <result2String>0</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>WHAT!?</buttonOneString>
+      <buttonTwoString></buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>13</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>-2</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>SABATOGE!</titleString>
+      <descriptorString>A rival company sabatoged your public relations!</descriptorString>
+      <result1String>Classic smear campaign, looks like this will dampen guest relations for a while.</result1String>
+      <result2String>0</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>WHAT!?</buttonOneString>
+      <buttonTwoString></buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>14</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>-1000</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>-2</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>1</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>Security force on strike!</titleString>
+      <descriptorString>Looks like the security team are upset about their wages. But as a capitalist tyrant, you hate this. Now what?</descriptorString>
+      <result1String>How horrid, a multibillionare having to pay out to their staff.</result1String>
+      <result2String>Let them bicker, the park runs itself.</result2String>
+      <result3String>That was...interesting. (+1 dinosaur...somehow)</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Pay them, berudgingly ($-1000)</buttonOneString>
+      <buttonTwoString>Ignore them (-2 security)</buttonTwoString>
+      <buttonThreeString>Feed them to the dinosaurs!</buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>15</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>2</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>-1000</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>Roller Coasters?</titleString>
+      <descriptorString>A small group of constructors want to build a roller coasters! Weird choice for a park, but hey?</descriptorString>
+      <result1String>ROLLER COASTERS! (+2 guests)</result1String>
+      <result2String>NO ROLLER COASTERS!</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Roller Coasters! (-1000)</buttonOneString>
+      <buttonTwoString>No Roller Coasters!</buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>16</eventID>
+      <b1dinoValueDiff>-2</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>-2</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>6</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>Moving house!</titleString>
+      <descriptorString>A dinosaur needs to be moved to a new enclosure. How will you plan this?</descriptorString>
+      <result1String>The dinosaur got sick beacuse of the bad environment. Maybe moving it was the right idea? (-2 dinosaurs)</result1String>
+      <result2String>The crew moved the dinosaurs, but a few incidents caused the security team to loose a few staff (-2 security)</result2String>
+      <result3String>The security team has moved the dinosaur with little incident.</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Leave it in the enclosure.</buttonOneString>
+      <buttonTwoString>Move it with a small crew.</buttonTwoString>
+      <buttonThreeString>Move it with a big crew (6 security required)</buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>17</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>-1500</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>-5000</b2moneyDiff>
+      <b3dinoValueDiff>1</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>1</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>OH NO! LAWYERS!</titleString>
+      <descriptorString>A group of lawyers arrive, asking you to pay up for some injury incidents</descriptorString>
+      <result1String>Maybe it's for the best to deal with it</result1String>
+      <result2String>Oh good, time to get sued. This won't take long ($-5000)</result2String>
+      <result3String>A happy moment. (+1 Dinosaur, +1 guest)</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Pay up ($-1500)</buttonOneString>
+      <buttonTwoString>Lawyer up yourself</buttonTwoString>
+      <buttonThreeString>Feed them to the dinosaurs!</buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>18</eventID>
+      <b1dinoValueDiff>2</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>-1</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>-1</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>-1</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>2</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>-1</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>-1</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>-1</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>2</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>How to expand?</titleString>
+      <descriptorString>During expansion planning, the three representatives approach you and ask to improve...</descriptorString>
+      <result1String>The dinosaur enclosures are good, but the other reps are jealous. (+2 dino, -1 guest and security)</result1String>
+      <result2String>The guests love the new hotels, but the other reps are jealous. (+2 guest, -1 dino and security)</result2String>
+      <result3String>The staff love the new buildings, but the other reps are jealous. (+2 security, -1 dino and guest)</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>the dinosaur enclosures.</buttonOneString>
+      <buttonTwoString>the hotels.</buttonTwoString>
+      <buttonThreeString>the staff buildings.</buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>19</eventID>
+      <b1dinoValueDiff>-1</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>0</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>-1</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>0</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>7</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>A guest goes into an exhibit</titleString>
+      <descriptorString>A guest jumps the fence and lands into an enclosure. If you don't act quick, someone will get hurt!</descriptorString>
+      <result1String>The dinosaur is dead, but the guest is safe. Where have I heard this one before? (-1 dinosaur)</result1String>
+      <result2String>The guest is dead, but we kept the asset alive. Honestly, worth the trade (-1 guest)</result2String>
+      <result3String>Thankfully, your competent security team solved the problem</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Shoot the dinosaur!</buttonOneString>
+      <buttonTwoString>Shoot the guest!</buttonTwoString>
+      <buttonThreeString>Do something reasonable (Securty 7 required)</buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+	<EventData>
+      <eventID>20</eventID>
+      <b1dinoValueDiff>0</b1dinoValueDiff>
+      <b1dinoValueRequirement>0</b1dinoValueRequirement>
+      <b1guestValueDiff>0</b1guestValueDiff>
+      <b1guestValueRequirement>0</b1guestValueRequirement>
+      <b1securityValueDiff>0</b1securityValueDiff>
+      <b1securityValueRequirement>0</b1securityValueRequirement>
+      <b1moneyDiff>0</b1moneyDiff>
+      <b2dinoValueDiff>2</b2dinoValueDiff>
+      <b2dinoValueRequirement>0</b2dinoValueRequirement>
+      <b2guestValueDiff>0</b2guestValueDiff>
+      <b2guestValueRequirement>0</b2guestValueRequirement>
+      <b2securityValueDiff>0</b2securityValueDiff>
+      <b2securityValueRequirement>9</b2securityValueRequirement>
+      <b2moneyDiff>0</b2moneyDiff>
+      <b3dinoValueDiff>0</b3dinoValueDiff>
+      <b3dinoValueRequirement>0</b3dinoValueRequirement>
+      <b3guestValueDiff>0</b3guestValueDiff>
+      <b3guestValueRequirement>0</b3guestValueRequirement>
+      <b3securityValueDiff>0</b3securityValueDiff>
+      <b3securityValueRequirement>0</b3securityValueRequirement>
+      <b3moneyDiff>0</b3moneyDiff>
+      <b4dinoValueDiff>0</b4dinoValueDiff>
+      <b4dinoValueRequirement>0</b4dinoValueRequirement>
+      <b4guestValueDiff>0</b4guestValueDiff>
+      <b4guestValueRequirement>0</b4guestValueRequirement>
+      <b4securityValueDiff>0</b4securityValueDiff>
+      <b4securityValueRequirement>0</b4securityValueRequirement>
+      <b4moneyDiff>0</b4moneyDiff>
+      <titleString>Sauropods escape!</titleString>
+      <descriptorString>A herd of Sauropods break out of their enclosures! What happens now?</descriptorString>
+      <result1String>The Sauropods mostly keep to themselves, and they're slow enough that anyone nearby can escape them. Could be worse.</result1String>
+      <result2String>Back into the enclosure you get, long horses! (+2 dinosaur)</result2String>
+      <result3String>0</result3String>
+      <result4String>0</result4String>
+      <buttonOneString>Let them run loose</buttonOneString>
+      <buttonTwoString>Secure them (Security 9 required)</buttonTwoString>
+      <buttonThreeString></buttonThreeString>
+      <buttonFourString></buttonFourString>
+    </EventData>
+
+  </EventList>
+</SaveData>

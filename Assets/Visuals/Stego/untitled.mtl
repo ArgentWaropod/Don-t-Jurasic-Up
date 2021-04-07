@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl StegosaurusWWD_Adult_F
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\Users\Ryan Black\Documents\Dinosaur stuff\StegosaurusWWD\StegosaurusWWD_Adult_F.dds
+map_d C:\\Users\\Ryan Black\\Documents\\Dinosaur stuff\\StegosaurusWWD\\StegosaurusWWD_Adult_F.dds
